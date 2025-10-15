@@ -1,0 +1,13 @@
+---
+name: Feature Request
+
+about: ขอ feature ใหม่
+title: '[FEATURE] '
+labels: enhancement
+assignees: ''
+
+---
+
+**Feature description**
+...
+
