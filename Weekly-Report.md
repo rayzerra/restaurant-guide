@@ -2,8 +2,7 @@
 
 ## Completed This Week
 1. Homepage layout (Merged)
-2.
-Restaurant database API (Merged)
+2. Restaurant database API (Merged)
 3. Mobile navigation hotfix (Merged)
 4. Test plan created
 
