@@ -1,0 +1,23 @@
+/* CSS for the .hero section (Suggestion 1) */
+.hero {
+    /* Assuming .hero already has some padding/min-height */
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('hero-bg.jpg') center/cover no-repeat; /* Added both linear-gradient and image */
+    color: white;
+    /* Other existing hero styles */
+}
+
+/* CSS for the CTA Button hover effect (Suggestion 3) */
+.hero button {
+    /* You'll need some basic styling for the button first */
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff5722; /* Example color */
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition for hover */
+}
+
+.hero button:hover {
+    background-color: #e64a19; /* A slightly darker color on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: subtle shadow for depth */
+}
