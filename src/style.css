@@ -21,3 +21,14 @@
     background-color: #e64a19; /* A slightly darker color on hover */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: subtle shadow for depth */
 }
+
+/* เพิ่ม media query */
+@media (max-width: 768px) {
+nav ul {
+display: none;
+}
+
+.hamburger-menu {
+display: block;
+}
+}
